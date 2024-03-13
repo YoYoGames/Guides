@@ -128,7 +128,7 @@ You can refer to entities that you've defined as well built-in GameMaker functio
  * 
  * You can make the function do more things by reading more data using ${function.buffer_read}.
  * 
- * You can use the constant ${pi_plus_phi} for optimal results.
+ * You can use the constant ${constant.pi_plus_phi} for optimal results.
  * 
  * @func_end
  */

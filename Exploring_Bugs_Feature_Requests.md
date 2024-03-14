@@ -1,4 +1,4 @@
-# Exploring the YoYoGames GitHub
+# Exploring the GameMaker GitHub
 
 All public GameMaker project repositories can be found on GitHub at https://github.com/YoYoGames as well as other information about GameMaker.
 
@@ -12,7 +12,7 @@ https://github.com/orgs/YoYoGames/projects/13
 
 You can find all bugs and feature requests in the https://github.com/YoYoGames/GameMaker-Bugs/issues list.
 
-Bug reports that you send from [The Help Menu](https://manual.gamemaker.io/monthly/en/IDE_Navigation/Menus/The_Help_Menu.htm)'s `Report a GameMaker Bug` option are also created in this list.
+Bug reports that you send from [The Help Menu](https://manual.gamemaker.io/monthly/en/IDE_Navigation/Menus/The_Help_Menu.htm)'s `Report a GameMaker Bug` option are also created in this list. Note that private tickets are not included in this list.
 
 ### Looking for an Existing Bug
 

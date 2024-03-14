@@ -119,7 +119,7 @@ You can also refer to Markdown pages (`*.md`) in the `docs` folder through the `
 
 ### Inserting Entities
 
-You can refer to entities that you've defined as well built-in GameMaker functions, structs and constants anywhere in the text using the syntax `${<type>.<identifier>}`. Inside a comment section: 
+You can refer to entities that you've defined as well as built-in GameMaker functions, structs and constants anywhere in the text using the syntax `${<type>.<identifier>}`. Inside a comment section: 
 
 ```js
 /**

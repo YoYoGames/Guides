@@ -150,7 +150,7 @@ The function ${function.fmod_system_init}, the constant ${constant.FMOD_RESULT} 
 
 ### Tag Reference
 
-> **WARNING** All identifiers are case sensitive.
+> **WARNING** All identifiers must be in lowercase (e.g. `my_function`).
 
 #### module
 

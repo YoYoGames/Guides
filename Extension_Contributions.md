@@ -22,7 +22,9 @@ You can make changes to extension documentation if you find anything that should
 
 ### The "docs" Folder
 
-All documentation for an extension is stored in a `docs` subfolder in the extension's code repository. The documentation on the wiki is generated from this.
+Documentation for an extension is stored in a `docs` subfolder in the extension's code repository. The documentation on the wiki is generated from this.
+
+> **NOTE**: Not all extensions follow this format. If an extension you're contributing to does not have the `docs` folder, then the GameMaker team needs to update the repository's wiki manually.
 
 The `docs` folder can contain the following: 
 

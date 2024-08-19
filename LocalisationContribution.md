@@ -13,7 +13,7 @@ Localisation for GameMaker is pulled from the repositories listed below. Each re
 * [Spanish](https://github.com/YoYoGames/IDE_Localisation_Spanish)
 * [Chinese](https://github.com/YoYoGames/IDE_Localisation_Chinese)
 
-Each repository contains a **<language>.csv** file with general strings for the IDE, and a **<language>_dnd.csv** file with strings used in GML Visual.
+Each repository contains a **language.csv** file with general strings for the IDE, and a **language_dnd.csv** file with strings used in GML Visual.
 
 You can contribute to these files by simply forking the repository, making your changes and making a PR to merge your forked changes into the original repository.
 

@@ -27,6 +27,13 @@ Click on (+) again below the list that shows GMRT. This will open a dialog where
 
 ![image](https://github.com/user-attachments/assets/be18680d-49b1-4807-b71b-a557bf7a603f)
 
+```
+Name: Localisation Plugins
+URL: https://gmpm.gamemaker.io/
+Scopes: @localisation_plugins
+Install Subdirectory: LocalisationPlugins
+```
+
 Now all languages will appear in the Package Manager when this new source is selected:
 
 ![image](https://github.com/user-attachments/assets/5fa8de50-9bcb-4780-a48e-b9458dec99d2)
